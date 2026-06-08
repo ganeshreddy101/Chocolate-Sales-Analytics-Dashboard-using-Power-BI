@@ -24,6 +24,8 @@
 
 The goal of this project was to build an interactive Power BI dashboard that provides actionable insights and helps stakeholders make informed business decisions.
 
+
+
 ## Tools & Technologies:
 - Power BI
 
@@ -35,9 +37,11 @@ The goal of this project was to build an interactive Power BI dashboard that pro
 
 - Data Visualization
 
+
+
 ## Dashboard KPIs
 
-KPI	Value
+  KPI	Value
 
 - Total Revenue	$141M
 
@@ -48,6 +52,7 @@ KPI	Value
 - Total Boxes Sold	9M
 
 - Total Shipments	25K
+
 
 
 ## Key Analysis Performed
@@ -81,9 +86,10 @@ Evaluated top-performing products based on:
 
 - Sales contribution
 
-Top Performing Products
 
-Product	and it's Revenue
+  Top Performing Products
+
+  Product	and it's Revenue
 
 - Organic Choco Syrup:	   $119M
 
@@ -120,6 +126,7 @@ Top performers include:
 
 This analysis helps management identify high-performing employees and establish performance benchmarks.
 
+
 5. Geographic Performance Analysis
 
  Compared sales performance across countries:
@@ -135,6 +142,9 @@ This analysis helps management identify high-performing employees and establish 
 - UK	$10.23M
 
 This helps identify strong markets and opportunities for business expansion.
+
+
+
 
 ## Key Business Insights
  
@@ -152,6 +162,7 @@ Product Insights:
 
 - Some products generate revenue but have relatively lower profit percentages, indicating optimization opportunities.
 
+
 Regional Insights:
 
 - India contributes the largest share of sales revenue.
@@ -159,6 +170,7 @@ Regional Insights:
 - New Zealand and Australia are also strong-performing markets.
 
 - UK contributes comparatively less revenue and may require market growth strategies.
+
 
 Sales Team Insights:
 
@@ -171,6 +183,8 @@ Operational Insights:
 - Shipment volumes are concentrated within specific ranges.
 Understanding shipment patterns can support logistics planning and inventory management.
 
+
+
 ## Business Recommendations
  
 Product Strategy:
@@ -181,11 +195,13 @@ Product Strategy:
 
 - Review underperforming products for pricing or product improvement.
 
+
 Geographic Expansion:
 
 - Strengthen presence in high-performing regions such as India and Australia.
 
 - Investigate reasons behind lower sales in the UK and implement targeted marketing campaigns.
+
 
 Sales Team Development:
 
@@ -195,11 +211,14 @@ Sales Team Development:
 
 - Introduce performance-based incentive programs.
 
+
 Operations Optimization:
 
 - Align inventory planning with shipment demand patterns.
 
 - Improve logistics efficiency during peak shipment periods.
+
+
 
 ## Business Impact / Outcome
 
