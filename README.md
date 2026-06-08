@@ -1,12 +1,12 @@
 # Chocolate-Sales-Analytics-Dashboard-using-Power-BI
 
-##📌 Project Overview
+## Project Overview
 
 - This project analyzes chocolate sales, shipments, profitability, product performance, and regional trends using an interactive Power BI dashboard.
 
 - The objective was to help management identify high-performing products, profitable regions, top sales contributors, and shipment patterns to support data-driven business decisions and improve overall business performance.
 
-🎯 ## Problem Statement
+## Problem Statement
 
 - A chocolate manufacturing company generates sales across multiple countries, products, and sales teams. However, management lacked a centralized view to monitor:
 
@@ -24,7 +24,7 @@
 
 The goal of this project was to build an interactive Power BI dashboard that provides actionable insights and helps stakeholders make informed business decisions.
 
-🛠️ ## Tools & Technologies:
+## Tools & Technologies:
 - Power BI
 
 - Power Query
@@ -35,7 +35,7 @@ The goal of this project was to build an interactive Power BI dashboard that pro
 
 - Data Visualization
 
-📊 ## Dashboard KPIs
+## Dashboard KPIs
 
 KPI	Value
 
@@ -50,47 +50,55 @@ KPI	Value
 - Total Shipments	25K
 
 
-📈 ## Key Analysis Performed
+## Key Analysis Performed
 
 
-1. Sales Trend Analysis (Current Year vs Previous Year)
-Compared monthly sales performance against the previous year.
-Identified seasonal fluctuations and growth periods.
-Tracked revenue consistency throughout the selected period.
+1. Sales Trend Analysis (Current Year vs Previous Year):
+
+- Compared monthly sales performance against the previous year.
+
+- Identified seasonal fluctuations and growth periods.
+
+- Tracked revenue consistency throughout the selected period.
 
 
-2. Shipment Distribution Analysis
-Analyzed shipment volumes across different ranges.
-Identified shipment concentration and delivery patterns.
-Helped understand operational workload distribution.
+2. Shipment Distribution Analysis:
+
+- Analyzed shipment volumes across different ranges.
+
+- Identified shipment concentration and delivery patterns.
+
+- Helped understand operational workload distribution.
 
 
 3. Product Performance Analysis
+
 Evaluated top-performing products based on:
+
 - Revenue
 
 - Profitability
 
 - Sales contribution
 
-- Top Performing Products
+Top Performing Products
 
-- Product	Revenue
+Product	and it's Revenue
 
-- Organic Choco Syrup	$119M
+- Organic Choco Syrup:	   $119M
 
-- Caramel Stuffed	$103M
+- Caramel Stuffed:	       $103M
 
-- Smooth Silky	$85.7M
+- Smooth Silky:	          $85.7M
 
-- 99% Dark & Pure	$84.6M
+- 99% Dark & Pure:	       $84.6M
 
-- Almond Choco	$76.6M
+- Almond Choco:	          $76.6M 
 
 
 4. Salesperson Performance Analysis
 
-  Analyzed sales representatives based on:
+Analyzed sales representatives based on:
 
 - Total Sales
 
@@ -128,7 +136,7 @@ This analysis helps management identify high-performing employees and establish 
 
 This helps identify strong markets and opportunities for business expansion.
 
-🔍 ## Key Business Insights
+## Key Business Insights
  
 Revenue & Profitability:
 
@@ -163,7 +171,7 @@ Operational Insights:
 - Shipment volumes are concentrated within specific ranges.
 Understanding shipment patterns can support logistics planning and inventory management.
 
-💡## Business Recommendations
+## Business Recommendations
  
 Product Strategy:
 
@@ -193,7 +201,7 @@ Operations Optimization:
 
 - Improve logistics efficiency during peak shipment periods.
 
-📊 ## Business Impact / Outcome
+## Business Impact / Outcome
 
 This dashboard enables stakeholders to:
 
