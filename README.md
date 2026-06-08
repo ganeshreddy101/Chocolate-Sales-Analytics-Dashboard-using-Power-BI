@@ -1,6 +1,6 @@
 # Chocolate-Sales-Analytics-Dashboard-using-Power-BI
 
-📌 ## Project Overview
+##📌 Project Overview
 
 - This project analyzes chocolate sales, shipments, profitability, product performance, and regional trends using an interactive Power BI dashboard.
 
